@@ -91,8 +91,5 @@ Create a simple web-based system to manage students' records, including adding, 
 
 Feel free to fork the repository and submit pull requests. Any contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
